@@ -1,7 +1,8 @@
 # 🍔 Fast Food Dietary Analysis
 ## 📊 Dashboard Overview
 
-![Fast Food Dashboard](Screenshot 2026-02-16 120439.png)
+![Fast Food Dashboard](Screenshot%202026-02-16%20120439.png)
+
 
 ## 📊 Project Overview
 
